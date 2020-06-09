@@ -4,7 +4,7 @@ The objective of this project is to show how to use some resources from Spring B
 
 ## Execution
 
-to execute with Maven: `mvn spring-boot run`
+to execute with Maven: `mvn spring-boot:run`
 
 ## Dependencies
 
